@@ -63,3 +63,6 @@ Get your EC2 instance Public IP from the AWS Console or from the playbook output
 Open in browser:
 
 http://<EC2_PUBLIC_IP>:3007
+
+THIS IS HOW THE APP WILL DISPLAY
+ ![Node.js App Running](photo2.png)
