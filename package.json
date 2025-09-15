@@ -1,0 +1,23 @@
+{
+  "name": "ansible-node-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sachin-Patkari/ansible-node-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sachin-Patkari/ansible-node-app/issues"
+  },
+  "homepage": "https://github.com/Sachin-Patkari/ansible-node-app#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}

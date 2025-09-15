@@ -50,7 +50,7 @@
       git:
         repo: "https://github.com/Sachin-Patkari/ansible-node-app.git"
         dest: "/home/ec2-user/node-app"
-        version: master
+        version: main
 
     - name: Install npm dependencies
       npm:
